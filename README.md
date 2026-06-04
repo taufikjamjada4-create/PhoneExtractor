@@ -1,3 +1,5 @@
+## Note:- I Upload The Output From Videos That I have But You Have To Use Your Own Videos.
+
 # Extract The Spam Phone Numbers From The Videos
 Created The Python Project Using The Tesserect-OCR Library To Extract The Spam Phone Numbers From Videos.
 
